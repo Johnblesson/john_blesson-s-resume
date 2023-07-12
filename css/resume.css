@@ -188,6 +188,10 @@ a:hover, a:focus, a:active {
   align-items: center;
 }
 
+.cv_btn:hover {
+  background-color: #ffff;
+  }
+
 /** CV btn styling 
 .cv_btn {
   background-color: #bab9b9d2;
