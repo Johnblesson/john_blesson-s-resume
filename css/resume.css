@@ -192,6 +192,9 @@ a:hover, a:focus, a:active {
   background-color: #ffff;
   }
 
+  a {
+    text-decoration: none;
+  }
 /** CV btn styling 
 .cv_btn {
   background-color: #bab9b9d2;
